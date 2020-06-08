@@ -15,27 +15,33 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FactoryMethod.cpp">
+    <ClCompile Include="src\AbstractFactory.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="AbstractFactory.cpp">
+    <ClCompile Include="src\BuilderPattern.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="main.cpp">
+    <ClCompile Include="src\FactoryMethod.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="BuilderPattern.cpp">
+    <ClCompile Include="src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Prototype.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="AbstractFactory.h">
+    <ClInclude Include="src\AbstractFactory.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="FactoryMethod.h">
+    <ClInclude Include="src\BuilderPattern.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="BuilderPattern.h">
+    <ClInclude Include="src\FactoryMethod.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Prototype.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

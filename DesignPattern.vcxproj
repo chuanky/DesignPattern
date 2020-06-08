@@ -147,15 +147,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="AbstractFactory.cpp" />
-    <ClCompile Include="BuilderPattern.cpp" />
-    <ClCompile Include="FactoryMethod.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="src\AbstractFactory.cpp" />
+    <ClCompile Include="src\BuilderPattern.cpp" />
+    <ClCompile Include="src\FactoryMethod.cpp" />
+    <ClCompile Include="src\main.cpp" />
+    <ClCompile Include="src\Prototype.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="AbstractFactory.h" />
-    <ClInclude Include="BuilderPattern.h" />
-    <ClInclude Include="FactoryMethod.h" />
+    <ClInclude Include="src\AbstractFactory.h" />
+    <ClInclude Include="src\BuilderPattern.h" />
+    <ClInclude Include="src\FactoryMethod.h" />
+    <ClInclude Include="src\Prototype.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
