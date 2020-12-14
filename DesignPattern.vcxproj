@@ -150,6 +150,7 @@
     <ClCompile Include="src\AbstractFactory.cpp" />
     <ClCompile Include="src\BuilderPattern.cpp" />
     <ClCompile Include="src\FactoryMethod.cpp" />
+    <ClCompile Include="src\Log.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\Prototype.cpp" />
     <ClCompile Include="src\Singleton.cpp" />
