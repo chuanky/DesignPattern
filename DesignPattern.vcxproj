@@ -159,6 +159,7 @@
     <ClInclude Include="src\AbstractFactory.h" />
     <ClInclude Include="src\BuilderPattern.h" />
     <ClInclude Include="src\FactoryMethod.h" />
+    <ClInclude Include="src\Log.h" />
     <ClInclude Include="src\Prototype.h" />
     <ClInclude Include="src\Singleton.h" />
   </ItemGroup>
